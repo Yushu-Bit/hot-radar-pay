@@ -1,0 +1,7 @@
+{
+  "name": "hot-radar-pay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "热点雷达 自动续费/发码服务 (Vercel Serverless)",
+  "engines": { "node": ">=18" }
+}
